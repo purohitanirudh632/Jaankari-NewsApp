@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+      {
+        "source": {
+          "id": "news-com-au",
+          "name": "News.com.au"
+        },
+        "author": "James Dampney",
+        "title": "Australian cricket stunned by massive snub",
+        "description": "Australian cricket enjoyed an extraordinary year in 2023, taking out the ODI World Cup and the World Test Championship along with retaining the Ashes.",
+        "url": "https://www.news.com.au/sport/cricket/travis-heads-name-was-a-surprise-omission-for-crickets-biggest-award/news-story/62b5fad646630550562875b38e25c76c",
+        "urlToImage": "https://content.api.news/v3/images/bin/5e76d99498b44ec1f1ca36b96074a1a4",
+        "publishedAt": "2024-01-31T09:43:00Z",
+        "content": "Australian cricket enjoyed an extraordinary year in 2023, taking out the ODI World Cup and the World Test Championship along with retaining the Ashes.\r\nAmong the stars of Australian cricket, the name… [+3059 chars]"
+      },
+      {
+        "source": {
+          "id": "news-com-au",
+          "name": "News.com.au"
+        },
+        "author": "Alex Blair",
+        "title": "Stars erupt at awkward Michael Clarke joke",
+        "description": "Aussie cricketers have been made to sweat in their expensive duds at the annual Cricket Awards in Melbourne.",
+        "url": "https://www.news.com.au/sport/cricket/the-grade-cricketers-ian-higgins-makes-joke-about-michael-clarke-karl-stefanovic-to-steve-smith/news-story/7e0a3eca5384dca173377cbdcef9da1f",
+        "urlToImage": "https://content.api.news/v3/images/bin/6a71cee5d1433c20ed53717bd6bb1aba",
+        "publishedAt": "2024-01-31T09:16:00Z",
+        "content": "Aussie cricketers have been made to sweat in their expensive duds at the annual Cricket Awards in Melbourne.\r\nAnyone familiar with hosts Sam Perry and Ian Higgins from the popular podcast, The Grade … [+2448 chars]"
+      },
+      {
+        "source": {
+          "id": "news-com-au",
+          "name": "News.com.au"
+        },
+        "author": "Claudia Poposki",
+        "title": "Cricketer stuns in dress with daring neckline",
+        "description": "Australian sport has many “night of nights”, but today it’s time for cricketers to show they too can scrub up when they’re out of their whites.",
+        "url": "https://www.news.com.au/lifestyle/fashion/celebrity/cricketer-ellyse-perry-stuns-in-dress-with-daring-neckline/news-story/2e347580e81af12395504670d645132d",
+        "urlToImage": "https://content.api.news/v3/images/bin/dbcfa78d3635760125953c261a085c9c",
+        "publishedAt": "2024-01-31T06:19:00Z",
+        "content": "Australian sport has many “night of nights”, but today it’s time for cricketers to show they too can scrub up when they’re out of their whites.\r\nCricketers and their partners have arrived on the blue… [+2041 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+        "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+        "publishedAt": "2020-04-27T11:41:47Z",
+        "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+        "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+        "publishedAt": "2020-03-30T15:26:05Z",
+        "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+      }
+    ]
+  }
